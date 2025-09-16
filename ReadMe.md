@@ -6,3 +6,5 @@ This repo is mainly used to learn about git-secrets
 - what's gpg?
 
 -navbar comment
+
+- adding footer
